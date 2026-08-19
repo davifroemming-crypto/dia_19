@@ -6,6 +6,6 @@ exemplo
 
 1.instale o Python na sua máquina
 2. execute o código com
-  ```bah
+  ```bash
       python main.py
   ```
